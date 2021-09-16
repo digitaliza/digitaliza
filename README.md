@@ -39,6 +39,14 @@ Com muito empenho, a empresa dedica-se a atender a demanda permanente com supera
 
 ### Serviços
 
+Digitalização de documentos
+> Cansado do grande volume de papéis, de arquivos físicos e da dificuldade de encontrar um documento específico em tempo hábil? Se sim, a DIGITALIZA é a solução para você e sua empresa se livrar desse grande problema e de quebra, conseguir organizar-se de uma forma muito mais prática e rápida.
+> Com o uso de equipamentos altamente sofisticados e equipes interna e de campo qualificadas, a Digitaliza proporciona aos seus clientes a digitalização dos documentos, mantendo a cópia fiel dos mesmos e promovendo a organização de todo o acervo, de forma profissional e organizada.
+
+5S
+> Aplique a metodologia 5S em seu acervo. A metodologia 5S tem sido desenvolvida de forma eficaz e participativa nas empresas através de fundamentos de fácil compreensão e capacidade de apresentar resultados expressivos.
+> O conceito de 5S possui como base as cinco palavras japonesas cujas iniciais formam o nome do programa. As palavras são Seiri, Seiton, Seiso, Seiketsu e Shitsuke, que migradas para o Português foram traduzidas como “sensos”, visando não descaracterizar a nomenclatura do programa. São eles: senso de arrumação, senso de limpeza, senso de padronização, senso de organização e senso de autodisciplina
+
 GED - Gerenciador Eletrônico de Documentos
 > Desenvolvido pela DIGITALIZA, o GED - Gerenciador Eletrônico de Documentos, é capaz de armazenar e indexar os arquivos digitalizados, com informações que proporcionam segurança, agilidade e praticidade na busca dos documentos.
 > O GED DIGITALIZA é um software que facilitará sua busca, armazenamento e utilização de todos os arquivos digitalizados. O sistema foi desenvolvido com tecnologias renomadas no mercado de software, visando segurança, praticidade, qualidade e interface responsiva com o usuário.
