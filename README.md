@@ -17,9 +17,8 @@ Com muito empenho, a empresa dedica-se a atender a demanda permanente com supera
 
 #### Venha nos fazer uma visita
 
-> Rua Carlos Alberto da Cunha Mello, 170, Apto. 101
-> Marajoara - Teófilo Otoni/MG.
-> Segunda à Sexta das 07:00 às 18:00 horas.
+> * Rua Carlos Alberto da Cunha Mello, 170, Apto. 101, Marajoara - Teófilo Otoni/MG.
+> * Segunda à Sexta das 07:00 às 18:00 horas.
 > <a href="https://goo.gl/maps/9nq6XLMGbe9E525p8" target="_blank">
 	<img src="https://img.shields.io/badge/-localizacao-%23333?style=for-the-badge" alt="">
 </a>
