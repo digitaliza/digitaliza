@@ -9,19 +9,17 @@ A `DIGITALIZA` busca oferecer a prestação de serviços com alto nível de prof
 A empresa busca cumprir as tarefas que lhe foram designadas, com vistas no êxito dos resultados alcançados.
 Com muito empenho, a empresa dedica-se a atender a demanda permanente com superação de expectativas.
 
-#### Contatos
-
-![Twitter URL](https://img.shields.io/static/v1?label=Telefone&message=+55(33)3521-0086&color=FF6700&style=for-the-badge)
-![Twitter URL](https://img.shields.io/static/v1?label=Telefone&message=+55(33)98827-5215&color=FF6700&style=for-the-badge)
-![Twitter URL](https://img.shields.io/static/v1?label=E-mail&message=contato@digitaliza.com.br&color=FF6700&style=for-the-badge)
-
-#### Venha nos fazer uma visita
+#### Endereço e contatos
 
 > * Rua Carlos Alberto da Cunha Mello, 170, Apto. 101, Marajoara - Teófilo Otoni/MG.
 > * Segunda à Sexta das 07:00 às 18:00 horas.
 <a href="https://goo.gl/maps/9nq6XLMGbe9E525p8" target="_blank">
 	<img src="https://img.shields.io/badge/-localizacao-%23333?style=for-the-badge" alt="">
 </a>
+
+![Twitter URL](https://img.shields.io/static/v1?label=Telefone&message=+55(33)3521-0086&color=FF6700&style=for-the-badge)
+![Twitter URL](https://img.shields.io/static/v1?label=Telefone&message=+55(33)98827-5215&color=FF6700&style=for-the-badge)
+![Twitter URL](https://img.shields.io/static/v1?label=E-mail&message=contato@digitaliza.com.br&color=FF6700&style=for-the-badge)
 
 #### Tecnologias que utilizamos em nossos projetos
 
