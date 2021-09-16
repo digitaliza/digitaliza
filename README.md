@@ -36,6 +36,14 @@ Com muito empenho, a empresa dedica-se a atender a demanda permanente com supera
 
 ![Twitter URL](https://img.shields.io/badge/-digitaliza.com.br-%23333?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge&url=https://dgitaliza.com.br)
 
+<a href="https://instagram.com/theu_ramalhoo" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Mat__Instagram">
+</a>
+
+<a href="https://twitter.com/theu_ramalhoo" target="_blank" rel="noopener">
+	<img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="Mat__Twitter">
+</a>
+
 <a href="https://dgitaliza.com.br" target="_blank">
 	<img src="https://img.shields.io/badge/-digitaliza.com.br-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Digitaliza Tecnologia">
 </a>
