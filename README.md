@@ -2,7 +2,7 @@
 
 # Digitaliza Tecnologia e Gestão de Dados 
 
-### Olá, somos a Digitaliza 👏:
+### Olá, somos a Digitaliza :wave:
 
 Digitalização e desenvolvimento webvisual
 Somos uma empresa focada em Digitalização de Documentos e Desenvolvimento de Websites Pessoais ou Corporativos, visando a melhor experiência para o usuário.
