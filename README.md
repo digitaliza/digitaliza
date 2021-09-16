@@ -11,18 +11,9 @@ Com muito empenho, a empresa dedica-se a atender a demanda permanente com supera
 
 #### Contatos
 
-* +55 (33) 3521-0086
-* +55 (33) 9 8827-5215
-* contato@digitaliza.com.br
- 
-[Telefone](https://exemplo.com/).
-[Telefone](https://exemplo.com/).
-[E-mail](https://exemplo.com/).
-<https://exemplo.com/>.
-
-* ![Twitter URL](https://img.shields.io/static/v1?label=Telefone&message=+55(33)3521-0086&color=FF6700&style=for-the-badge)
-* ![Twitter URL](https://img.shields.io/static/v1?label=Telefone&message=+55(33)98827-5215&color=FF6700&style=for-the-badge)
-* ![Twitter URL](https://img.shields.io/static/v1?label=E-mail&message=contato@digitaliza.com.br&color=FF6700&style=for-the-badge)
+![Twitter URL](https://img.shields.io/static/v1?label=Telefone&message=+55(33)3521-0086&color=FF6700&style=for-the-badge)
+![Twitter URL](https://img.shields.io/static/v1?label=Telefone&message=+55(33)98827-5215&color=FF6700&style=for-the-badge)
+![Twitter URL](https://img.shields.io/static/v1?label=E-mail&message=contato@digitaliza.com.br&color=FF6700&style=for-the-badge)
 
 #### Venha nos fazer uma visita
 
@@ -43,20 +34,6 @@ Segunda à Sexta das 07:00 às 18:00 horas.
 ![Twitter URL](https://img.shields.io/twitter/url?color=%23e4405f&label=Instagram&logo=Instagram&logoColor=e4405f&style=for-the-badge&url=https%3A%2F%2Finstagram.com%2Fdigitalizatecnologia)
 ![Twitter URL](https://img.shields.io/twitter/url?color=28c346&label=WhatsApp&logo=whatsApp&logoColor=28c346&style=for-the-badge&url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D5533988275215%26)
 
-<div style="margin: 1rem 0;">
-	<br/>
-
-	![Twitter URL](https://img.shields.io/twitter/url?style=social)
-
-	<a href="https://instagram.com/digitalizatecnologia" target="_blank" rel="noopener">
-		<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="digitalizatecnologia">
-	</a>
-
-	<a href="https://facebook.com/digitalizatecnologia" target="_blank" rel="noopener">
-		<img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="digitalizatecnologia">
-	</a>
-
-	<a href="https://dgitaliza.com.br" target="_blank">
-		<img src="https://img.shields.io/badge/-digitaliza.com.br-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Digitaliza Tecnologia">
-	</a>
-</div>
+<a href="https://dgitaliza.com.br" target="_blank">
+	<img src="https://img.shields.io/badge/-digitaliza.com.br-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Digitaliza Tecnologia">
+</a>
