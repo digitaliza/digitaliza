@@ -17,9 +17,8 @@ Com muito empenho, a empresa dedica-se a atender a demanda permanente com supera
 	<img src="https://img.shields.io/badge/-localizacao-%23333?style=for-the-badge" alt="">
 </a>
 
-![Twitter URL](https://img.shields.io/static/v1?label=Telefone&message=+55(33)3521-0086&color=FF6700&style=for-the-badge)
-![Twitter URL](https://img.shields.io/static/v1?label=Telefone&message=+55(33)98827-5215&color=FF6700&style=for-the-badge)
-![Twitter URL](https://img.shields.io/static/v1?label=E-mail&message=contato@digitaliza.com.br&color=FF6700&style=for-the-badge)
+![Twitter](https://img.shields.io/static/v1?label=Telefone&message=+55(33)3521-0086&color=FF6700&style=for-the-badge)
+![Twitter](https://img.shields.io/static/v1?label=E-mail&message=contato@digitaliza.com.br&color=FF6700&style=for-the-badge)
 
 ### Tecnologias que utilizamos em nossos projetos
 
