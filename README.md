@@ -35,7 +35,7 @@ Segunda à Sexta das 07:00 às 18:00 horas.
 
 ###### Siga-nos nas redes sociais
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Finstagram.com%2Fdigitalizatecnologia)
 
 <div style="margin: 1rem 0;">
 	<br/>
