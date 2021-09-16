@@ -59,9 +59,9 @@ Design gráfico
 
 ### Principais tecnologias que utilizamos em nossos projetos
 
-<!-- <div style="display: inline_block; margin: 1rem 0;"><br/> -->
-	<img alt="Mat__React" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    	<img alt="Mat__Laravel" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
-<!-- </div> -->
+<div style="display: inline_block; margin: 1rem 0;"><br/>
+	<img alt="React JS" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    	<img alt="Laravel" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
+</div>
 
 
