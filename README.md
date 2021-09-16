@@ -37,11 +37,17 @@ Com muito empenho, a empresa dedica-se a atender a demanda permanente com supera
 	<img src="https://img.shields.io/badge/-digitaliza.com.br-%23333?style=for-the-badge" alt="Digitaliza Tecnologia">
 </a>
 
-### SERVIÇOS
+### Serviços
 
-GED - GERENCIADOR ELETRÔNICO DE DOCUMENTOS
->Desenvolvido pela DIGITALIZA, o GED - Gerenciador Eletrônico de Documentos, é capaz de armazenar e indexar os arquivos digitalizados, com informações que proporcionam segurança, agilidade e praticidade na busca dos documentos.
->O GED DIGITALIZA é um software que facilitará sua busca, armazenamento e utilização de todos os arquivos digitalizados. O sistema foi desenvolvido com tecnologias renomadas no mercado de software, visando segurança, praticidade, qualidade e interface responsiva com o usuário.
+GED - Gerenciador Eletrônico de Documentos
+> Desenvolvido pela DIGITALIZA, o GED - Gerenciador Eletrônico de Documentos, é capaz de armazenar e indexar os arquivos digitalizados, com informações que proporcionam segurança, agilidade e praticidade na busca dos documentos.
+> O GED DIGITALIZA é um software que facilitará sua busca, armazenamento e utilização de todos os arquivos digitalizados. O sistema foi desenvolvido com tecnologias renomadas no mercado de software, visando segurança, praticidade, qualidade e interface responsiva com o usuário.
+
+Desenvolvimento de software web
+> A Digitaliza oferece aos seus clientes o serviço de criação de sites pessoais, comerciais e institucionais. Desenvolvidos com as soluções e ferramentas mais avançadas do mercado, além de sempre visar o web design, procurando sempre oferecer layouts modernos, funcionais e responsivos, não limitando o acesso apenas a um determinado tipo de dispositivo.
+
+Design gráfico
+> As redes sociais se tornaram uma ferramenta extremamente essencial para o mundo corporativo, sendo assim, manter o perfil/página do seu negócio atualizado(a) é inevitável. Para isso oferecemos o serviço de Criação de Projetos Gráficos para Redes Sociais, procurando sempre oferecer artes modernas e personalizadas. Aliás, "Quem não é visto, não é lembrado".
 
 ### Tecnologias que utilizamos em nossos projetos
 
