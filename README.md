@@ -45,7 +45,7 @@ Digitalização de documentos
 
 5S
 > Aplique a metodologia 5S em seu acervo. A metodologia 5S tem sido desenvolvida de forma eficaz e participativa nas empresas através de fundamentos de fácil compreensão e capacidade de apresentar resultados expressivos.
-> O conceito de 5S possui como base as cinco palavras japonesas cujas iniciais formam o nome do programa. As palavras são Seiri, Seiton, Seiso, Seiketsu e Shitsuke, que migradas para o Português foram traduzidas como “sensos”, visando não descaracterizar a nomenclatura do programa. São eles: senso de arrumação, senso de limpeza, senso de padronização, senso de organização e senso de autodisciplina
+> O conceito de 5S possui como base as cinco palavras japonesas cujas iniciais formam o nome do programa. As palavras são Seiri, Seiton, Seiso, Seiketsu e Shitsuke, que migradas para o Português foram traduzidas como “sensos”, visando não descaracterizar a nomenclatura do programa. São eles: senso de arrumação, senso de limpeza, senso de padronização, senso de organização e senso de autodisciplina.
 
 GED - Gerenciador Eletrônico de Documentos
 > Desenvolvido pela DIGITALIZA, o GED - Gerenciador Eletrônico de Documentos, é capaz de armazenar e indexar os arquivos digitalizados, com informações que proporcionam segurança, agilidade e praticidade na busca dos documentos.
@@ -57,11 +57,11 @@ Desenvolvimento de software web
 Design gráfico
 > As redes sociais se tornaram uma ferramenta extremamente essencial para o mundo corporativo, sendo assim, manter o perfil/página do seu negócio atualizado(a) é inevitável. Para isso oferecemos o serviço de Criação de Projetos Gráficos para Redes Sociais, procurando sempre oferecer artes modernas e personalizadas. Aliás, "Quem não é visto, não é lembrado".
 
-### Tecnologias que utilizamos em nossos projetos
+### Principais tecnologias que utilizamos em nossos projetos
 
-<div style="display: inline_block; margin: 1rem 0;"><br/>
+<!-- <div style="display: inline_block; margin: 1rem 0;"><br/> -->
 	<img alt="Mat__React" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     	<img alt="Mat__Laravel" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
-</div>
+<!-- </div> -->
 
 
