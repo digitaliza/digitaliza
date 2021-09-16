@@ -24,7 +24,6 @@ Com muito empenho, a empresa dedica-se a atender a demanda permanente com supera
 
 Rua Carlos Alberto da Cunha Mello, 170, Apto. 101
 Marajoara - Teófilo Otoni/MG.
-
 Segunda à Sexta das 07:00 às 18:00 horas.
 
 #### Tecnologias que utilizamos em nossos projetos
@@ -38,6 +37,8 @@ Segunda à Sexta das 07:00 às 18:00 horas.
 
 <div style="margin: 1rem 0;">
 	<br/>
+
+	![Twitter URL](https://img.shields.io/twitter/url?style=social)
 
 	<a href="https://instagram.com/digitalizatecnologia" target="_blank" rel="noopener">
 		<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="digitalizatecnologia">
