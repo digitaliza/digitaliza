@@ -36,11 +36,15 @@ Com muito empenho, a empresa dedica-se a atender a demanda permanente com supera
 
 ![Twitter URL](https://img.shields.io/badge/-digitaliza.com.br-%23333?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge&url=https://dgitaliza.com.br)
 
+<a href="https://api.whatsapp.com/send?phone=5533988275215&" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/-WhatsApp-%28c346?style=for-the-badge&logo=whatsApp&logoColor=white" alt="">
+</a>
+
 <a href="https://instagram.com/digitalizatecnologia" target="_blank" rel="noopener">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="">
 </a>
 
-<a href="https://twitter.com/digitalizatecnologia" target="_blank" rel="noopener">
+<a href="https://facebook.com/digitalizatecnologia" target="_blank" rel="noopener">
 	<img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" alt="">
 </a>
 
