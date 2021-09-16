@@ -21,11 +21,11 @@ Com muito empenho, a empresa dedica-se a atender a demanda permanente com supera
 ![Twitter](https://img.shields.io/static/v1?label=E-mail&message=contato@digitaliza.com.br&color=FF6700&style=for-the-badge)
 
 <a href="https://goo.gl/maps/9nq6XLMGbe9E525p8" target="_blank">
-	<img src="https://img.shields.io/badge/-localizacao-%FF6700?style=for-the-badge" alt="">
+	<img src="https://img.shields.io/badge/-localizacao-%23333?style=for-the-badge" alt="">
 </a>
 
 <a href="https://digitaliza.com.br" target="_blank">
-	<img src="https://img.shields.io/badge/-digitaliza.com.br-%FF6700?style=for-the-badge" alt="Digitaliza Tecnologia">
+	<img src="https://img.shields.io/badge/-digitaliza.com.br-%23333?style=for-the-badge" alt="Digitaliza Tecnologia">
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=5533988275215&" target="_blank" rel="noopener">
