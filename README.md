@@ -37,6 +37,12 @@ Com muito empenho, a empresa dedica-se a atender a demanda permanente com supera
 	<img src="https://img.shields.io/badge/-digitaliza.com.br-%23333?style=for-the-badge" alt="Digitaliza Tecnologia">
 </a>
 
+### SERVIÇOS
+
+GED - GERENCIADOR ELETRÔNICO DE DOCUMENTOS
+>Desenvolvido pela DIGITALIZA, o GED - Gerenciador Eletrônico de Documentos, é capaz de armazenar e indexar os arquivos digitalizados, com informações que proporcionam segurança, agilidade e praticidade na busca dos documentos.
+>O GED DIGITALIZA é um software que facilitará sua busca, armazenamento e utilização de todos os arquivos digitalizados. O sistema foi desenvolvido com tecnologias renomadas no mercado de software, visando segurança, praticidade, qualidade e interface responsiva com o usuário.
+
 ### Tecnologias que utilizamos em nossos projetos
 
 <div style="display: inline_block; margin: 1rem 0;"><br/>
