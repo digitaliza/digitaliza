@@ -20,7 +20,9 @@ Com muito empenho, a empresa dedica-se a atender a demanda permanente com supera
 [E-mail](https://exemplo.com/).
 <https://exemplo.com/>.
 
-![Twitter URL](https://img.shields.io/static/v1?label=WhatsApp&message=contato&color=28c346&style=for-the-badge&logo=appveyor)
+![Twitter URL](https://img.shields.io/static/v1?label=Telefone&message=+55 (33) 3521-0086&color=FF6700&style=for-the-badge&logo=appveyor)
+![Twitter URL](https://img.shields.io/static/v1?label=Telefone&message=+55 (33) 9 8827-5215&color=FF6700&style=for-the-badge&logo=appveyor)
+![Twitter URL](https://img.shields.io/static/v1?label=E-mail&message=contato@digitaliza.com.br&color=FF6700&style=for-the-badge&logo=appveyor)
 
 #### Venha nos fazer uma visita
 
