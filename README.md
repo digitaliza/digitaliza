@@ -49,5 +49,5 @@ Com muito empenho, a empresa dedica-se a atender a demanda permanente com supera
 </a>
 
 <a href="https://digitaliza.com.br" target="_blank">
-	<img src="https://img.shields.io/badge/-digitaliza.com.br-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Digitaliza Tecnologia">
+	<img src="https://img.shields.io/badge/-digitaliza.com.br-%23333?style=for-the-badge" alt="Digitaliza Tecnologia">
 </a>
