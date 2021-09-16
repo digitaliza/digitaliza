@@ -2,7 +2,7 @@
 
 # Digitaliza Tecnologia e Gestão de Dados 
 
-### Olá, somos a Digitaliza :v:
+### Olá, somos a Digitaliza 👏:
 
 Fundada em `28 de setembro de 2017`, em Teófilo Otoni - MG, a Digitaliza surgiu com a finalidade de facilitar o trabalho de pequenas e grandes empresas, públicas e privadas.
 A `DIGITALIZA` busca oferecer a prestação de serviços com alto nível de profissionalismo, realizando todas as suas tarefas de forma competente e responsável.
@@ -33,6 +33,8 @@ Com muito empenho, a empresa dedica-se a atender a demanda permanente com supera
 ![Twitter URL](https://img.shields.io/twitter/url?color=0077b5&label=Facebook&logo=Facebook&logoColor=0077b5&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fdigitalizatecnologia)
 ![Twitter URL](https://img.shields.io/twitter/url?color=%23e4405f&label=Instagram&logo=Instagram&logoColor=e4405f&style=for-the-badge&url=https%3A%2F%2Finstagram.com%2Fdigitalizatecnologia)
 ![Twitter URL](https://img.shields.io/twitter/url?color=28c346&label=WhatsApp&logo=whatsApp&logoColor=28c346&style=for-the-badge&url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D5533988275215%26)
+
+![Twitter URL](https://img.shields.io/badge/-digitaliza.com.br-%23333?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge&url=https://dgitaliza.com.br)
 
 <a href="https://dgitaliza.com.br" target="_blank">
 	<img src="https://img.shields.io/badge/-digitaliza.com.br-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Digitaliza Tecnologia">
