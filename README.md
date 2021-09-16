@@ -20,6 +20,9 @@ Com muito empenho, a empresa dedica-se a atender a demanda permanente com supera
 > Rua Carlos Alberto da Cunha Mello, 170, Apto. 101
 > Marajoara - Teófilo Otoni/MG.
 > Segunda à Sexta das 07:00 às 18:00 horas.
+> <a href="https://goo.gl/maps/9nq6XLMGbe9E525p8" target="_blank">
+	<img src="https://img.shields.io/badge/-localizacao-%23333?style=for-the-badge" alt="">
+</a>
 
 #### Tecnologias que utilizamos em nossos projetos
 
@@ -29,12 +32,6 @@ Com muito empenho, a empresa dedica-se a atender a demanda permanente com supera
 </div>
 
 ###### Siga-nos nas redes sociais
-
-![Twitter URL](https://img.shields.io/twitter/url?color=0077b5&label=Facebook&logo=Facebook&logoColor=0077b5&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fdigitalizatecnologia)
-![Twitter URL](https://img.shields.io/twitter/url?color=%23e4405f&label=Instagram&logo=Instagram&logoColor=e4405f&style=for-the-badge&url=https%3A%2F%2Finstagram.com%2Fdigitalizatecnologia)
-![Twitter URL](https://img.shields.io/twitter/url?color=28c346&label=WhatsApp&logo=whatsApp&logoColor=28c346&style=for-the-badge&url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D5533988275215%26)
-
-![Twitter URL](https://img.shields.io/badge/-digitaliza.com.br-%23333?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge&url=https://dgitaliza.com.br)
 
 <a href="https://api.whatsapp.com/send?phone=5533988275215&" target="_blank" rel="noopener">
         <img src="https://img.shields.io/badge/-WhatsApp-%28c346?style=for-the-badge&logo=whatsApp&logoColor=white" alt="">
