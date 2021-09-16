@@ -4,6 +4,9 @@
 
 ### Olá, somos a Digitaliza 👏:
 
+Digitalização e desenvolvimento webvisual
+Somos uma empresa focada em Digitalização de Documentos e Desenvolvimento de Websites Pessoais ou Corporativos, visando a melhor experiência para o usuário.
+
 Fundada em `28 de setembro de 2017`, em Teófilo Otoni - MG, a Digitaliza surgiu com a finalidade de facilitar o trabalho de pequenas e grandes empresas, públicas e privadas.
 A `DIGITALIZA` busca oferecer a prestação de serviços com alto nível de profissionalismo, realizando todas as suas tarefas de forma competente e responsável.
 A empresa busca cumprir as tarefas que lhe foram designadas, com vistas no êxito dos resultados alcançados.
