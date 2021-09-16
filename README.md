@@ -25,7 +25,7 @@ Com muito empenho, a empresa dedica-se a atender a demanda permanente com supera
 </a>
 
 <a href="https://digitaliza.com.br" target="_blank">
-	<img src="https://img.shields.io/badge/-digitaliza.com.br-%FF6700?style=for-the-badge" alt="Digitaliza Tecnologia">
+	<img src="https://img.shields.io/badge/-digitaliza.com.br-%23333?style=for-the-badge" alt="Digitaliza Tecnologia">
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=5533988275215&" target="_blank" rel="noopener">
